@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tejotop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tejotop\\.nuget\\packages"
+    ]
+  }
+}
